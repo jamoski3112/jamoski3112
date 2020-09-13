@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahul - aka [jamoski][website] 👋
 
 [![Website](https://img.shields.io/website?label=rahulr.in&style=for-the-badge&url=https%3A%2F%2Fwww.rahulr.in)](https://www.rahulr.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Rahul_R95)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rahul_R95?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frahulr311295&screen_name=Rahul_R95)
 
 
 
