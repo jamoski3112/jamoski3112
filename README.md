@@ -1,50 +1,89 @@
-### Hi there, I'm Rahul - aka [jamoski][website] 👋
 
-[![Website](https://img.shields.io/website?label=rahulr.in&style=for-the-badge&url=https%3A%2F%2Fwww.rahulr.in)](https://www.rahulr.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rahul_R95?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frahulr311295&screen_name=Rahul_R95)
+<h1 align="center">Hey there, I'm <a href="https://www.rahulr.in" target="_blank">Rahul</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">aka <b>jamoski</b> · Security Engineer · SOC Analyst · CTF Creator · Tech Tinkerer</h3>
 
-## I'm a passionate,self taught,infosec noob!
+<p align="center">
+  <a href="https://www.rahulr.in">
+    <img src="https://img.shields.io/website?label=rahulr.in&style=for-the-badge&url=https://www.rahulr.in" alt="Website" />
+  </a>
+  <a href="https://twitter.com/Rahul_R95">
+    <img src="https://img.shields.io/twitter/follow/Rahul_R95?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/rahul-r-3b0433a6">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/breadowskis_buddy">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-- 🔭 I’m a Security Engineer and a SOC Analyst
-- 🌱 I’m currently learning everything 🤣
-- ⚡ I wont say that I am a developer since I suck at writing code though I try my best to make it work
-- ⚡ I like making Vulnerable Machines and develop games
+---
 
-### Connect with me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD7&center=true&vCenter=true&width=600&lines=Passionate+Self-Taught+Infosec+Noob;Security+Engineer+%7C+SOC+Analyst;I+make+Vulnerable+Machines+%26+Games;Learning+everything+I+can+%F0%9F%A4%A3;Trying+my+best+to+write+code+that+works!" alt="Typing SVG" />
+</p>
 
-[<img align="left" alt="rahulr.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rahul_R95 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rahul R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="breadowskis_buddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+<details>
+  <summary><b>⚡ About Me</b></summary>
+  <ul>
+    <li>🔭 <b>Security Engineer</b> &amp; <b>SOC Analyst</b></li>
+    <li>🌱 <b>Currently learning everything</b> 🤣</li>
+    <li>💻 <b>Not quite a dev</b> but I <i>make it work</i></li>
+    <li>🔨 <b>Love building vulnerable machines and developing games</b></li>
+    <li>🎯 <b>Always up for new challenges and CTFs</b></li>
+  </ul>
+</details>
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Php" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Unity 3D" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<h2 align="center">🛠️ Languages & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,php,html,css,mysql,mongodb,graphql,git,github,docker,unity,vscode,csharp,bash" alt="My Skills" />
+</p>
 
-<br />
-<br />
+---
 
+<h2 align="center">🌍 Connect with me</h2>
+<p align="center">
+  <a href="https://www.rahulr.in" target="_blank"><img alt="Website" title="My Website" width="35" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://twitter.com/Rahul_R95" target="_blank"><img alt="Twitter" title="Twitter" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://linkedin.com/in/rahul-r-3b0433a6" target="_blank"><img alt="LinkedIn" title="LinkedIn" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/breadowskis_buddy" target="_blank"><img alt="Instagram" title="Instagram" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamoski3112&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamoski3112&theme=radical" alt="Rahul's GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamoski3112&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+<details>
+  <summary>📊 <b>GitHub Activity</b></summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jamoski3112&theme=github-compact" alt="Rahul's Activity Graph" />
+  </p>
+</details>
+
+---
+
+<!-- Faded footer for easter egg -->
+<p align="center" style="color: #888;">
+  <i>“Stay curious. Stay humble. Hack the planet.”</i>
+</p>
+
+<!-- Links -->
 [website]: https://www.rahulr.in
 [twitter]: https://twitter.com/Rahul_R95
 [facebook]: https://www.facebook.com/rahul.raveendran.92351
 [instagram]: https://www.instagram.com/breadowskis_buddy
-[linkedin]: https://linkedin.com/in/rahul-r-3b0433a6 
+[linkedin]: https://linkedin.com/in/rahul-r-3b0433a6
 [medium]: https://medium.com/@rahulraveendran06
